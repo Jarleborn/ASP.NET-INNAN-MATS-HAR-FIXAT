@@ -15,8 +15,8 @@
         <asp:CompareValidator ID="CompareValidator1" runat="server" ErrorMessage="TextBox1 måste innehålla ett heltal" Display="Dynamic" Text="*" Operator="DataTypeCheck" Type="Integer" ControlToValidate="TextBox1"></asp:CompareValidator>
         +
         <asp:TextBox ID="TextBox2" runat="server"></asp:TextBox>
-        <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="RequiredFieldValidator"></asp:RequiredFieldValidator>
-        <asp:CompareValidator ID="CompareValidator2" runat="server" ErrorMessage="CompareValidator"></asp:CompareValidator>
+        <asp:RequiredFieldValidator ID="RequiredFieldValidator2" runat="server" ErrorMessage="TextBox1 kan inte vara tom" Display="Dynamic" Text="*" ControlToValidate="TextBox2"></asp:RequiredFieldValidator>
+         <asp:CompareValidator ID="CompareValidator2" runat="server" ErrorMessage="TextBox1 måste innehålla ett heltal" Display="Dynamic" Text="*" Operator="DataTypeCheck" Type="Integer" ControlToValidate="TextBox2"></asp:CompareValidator>
     </div>
     <div>
         <asp:Button ID="Button" runat="server" Text="Button" OnClick="Button_Click" />

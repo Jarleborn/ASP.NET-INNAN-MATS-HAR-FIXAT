@@ -4,3 +4,9 @@ C:\Users\hj222hi\Documents\GitHub\ASP.NET-INNAN-MATS-HAR-FIXAT\MyValuableCalcula
 C:\Users\hj222hi\Documents\GitHub\ASP.NET-INNAN-MATS-HAR-FIXAT\MyValuableCalculator\MyValuableCalculator\obj\Debug\MyValuableCalculator.csprojResolveAssemblyReference.cache
 C:\Users\hj222hi\Documents\GitHub\ASP.NET-INNAN-MATS-HAR-FIXAT\MyValuableCalculator\MyValuableCalculator\obj\Debug\MyValuableCalculator.dll
 C:\Users\hj222hi\Documents\GitHub\ASP.NET-INNAN-MATS-HAR-FIXAT\MyValuableCalculator\MyValuableCalculator\obj\Debug\MyValuableCalculator.pdb
+C:\Users\hj222hi\Desktop\ASP.NET-INNAN-MATS-HAR-FIXAT\MyValuableCalculator\MyValuableCalculator\bin\MyValuableCalculator.dll.config
+C:\Users\hj222hi\Desktop\ASP.NET-INNAN-MATS-HAR-FIXAT\MyValuableCalculator\MyValuableCalculator\bin\MyValuableCalculator.dll
+C:\Users\hj222hi\Desktop\ASP.NET-INNAN-MATS-HAR-FIXAT\MyValuableCalculator\MyValuableCalculator\bin\MyValuableCalculator.pdb
+C:\Users\hj222hi\Desktop\ASP.NET-INNAN-MATS-HAR-FIXAT\MyValuableCalculator\MyValuableCalculator\obj\Debug\MyValuableCalculator.csprojResolveAssemblyReference.cache
+C:\Users\hj222hi\Desktop\ASP.NET-INNAN-MATS-HAR-FIXAT\MyValuableCalculator\MyValuableCalculator\obj\Debug\MyValuableCalculator.dll
+C:\Users\hj222hi\Desktop\ASP.NET-INNAN-MATS-HAR-FIXAT\MyValuableCalculator\MyValuableCalculator\obj\Debug\MyValuableCalculator.pdb
